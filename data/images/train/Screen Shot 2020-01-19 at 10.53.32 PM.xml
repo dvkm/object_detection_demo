@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Screen Shot 2020-01-19 at 10.53.32 PM.png</filename>
+	<path>/Users/david/Projects/tft-bot/training/images/Screen Shot 2020-01-19 at 10.53.32 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1750</width>
+		<height>1118</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gray orb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>778</xmin>
+			<ymin>681</ymin>
+			<xmax>845</xmax>
+			<ymax>756</ymax>
+		</bndbox>
+	</object>
+</annotation>
